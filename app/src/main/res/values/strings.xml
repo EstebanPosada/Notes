@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="notes">Notes</string>
+    <string name="reminders">Reminders</string>
+    <string name="save">Save</string>
+    <string name="empty">No data</string>
+    <string name="edit">Edit</string>
+    <string name="deleted">Deleted</string>
+    <string name="date">xx/xx/xxxx</string>
+</resources>

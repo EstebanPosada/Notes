@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="notes">Notas</string>
+    <string name="reminders">Recordatorio</string>
+    <string name="save">Guardar</string>
+    <string name="empty">No hay datos</string>
+    <string name="edit">Editar</string>
+    <string name="deleted">Eliminado</string>
+    <string name="date">xx/xx/xxxx</string>
+</resources>
